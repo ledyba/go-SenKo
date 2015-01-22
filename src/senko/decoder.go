@@ -1,4 +1,4 @@
-package komari
+package senko
 
 import (
 	"github.com/tchap/go-patricia/patricia"

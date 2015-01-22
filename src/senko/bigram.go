@@ -1,4 +1,4 @@
-package komari
+package senko
 
 import (
 	"bufio"
